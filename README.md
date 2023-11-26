@@ -1,2 +1,2 @@
 # Project-game
-Projeto Jogo da Memória com o Tema "HALLO". 
+Projeto Jogo da Memória com o Tema ***HALO***
